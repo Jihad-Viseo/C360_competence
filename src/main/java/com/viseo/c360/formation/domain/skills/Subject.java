@@ -1,11 +1,10 @@
 package com.viseo.c360.formation.domain.skills;
 
-
-import com.sun.istack.internal.NotNull;
 import com.viseo.c360.formation.domain.BaseEntity;
 
 import javax.persistence.Entity;
 import javax.persistence.ManyToMany;
+import javax.validation.constraints.NotNull;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;

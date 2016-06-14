@@ -1,7 +1,5 @@
 package com.viseo.c360.formation.dto.Subject;
 
-import com.sun.istack.internal.NotNull;
-import com.viseo.c360.formation.domain.skills.Subject;
 import com.viseo.c360.formation.dto.BaseDTO;
 
 import java.util.ArrayList;
